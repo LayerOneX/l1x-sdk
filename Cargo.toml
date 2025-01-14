@@ -7,4 +7,4 @@ members = [
 
 [workspace.package]
 version = "0.3.0"
-license = "Apache 2.0"
+license = "Polyform-Perimeter-1.0.0"
